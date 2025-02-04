@@ -1,1 +1,13 @@
+body {
+  background-color: MistyRose;
+}
 
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: cardo;
+  font-size: 20px;
+}
