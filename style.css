@@ -7,7 +7,12 @@ h1 {
   text-align: center;
 }
 
-p {
+h2 {
+  color: black;
+  text-align: center;
+}
+
+/p {
   font-family: cardo;
   font-size: 20px;
   text-align: center;
