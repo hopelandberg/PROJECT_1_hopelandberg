@@ -23,8 +23,9 @@ div {
   font-family: copperplate;
   font-size: 20px;
   background-color: cornsilk;
-  opacity: .5;
-  left: 40%;
+  opacity: .4;
+  left: 40%%;
+  right: 60%
 }
 
 img {
