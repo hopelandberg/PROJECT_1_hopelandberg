@@ -19,8 +19,9 @@ p {
 }
 
 div {
-  posistion: absolute;
+  position: absolute;
   font-family: copperplate;
+  font-size: 20px;
   background-color: lightgreen;
   left: 60%;
   right:40%;
