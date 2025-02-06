@@ -15,7 +15,7 @@ h2 {
 p {
   font-family: cardo;
   font-size: 20px;
-  text-align: left;
+  text-align: center;
 }
 
 div {
@@ -24,7 +24,6 @@ div {
   font-size: 20px;
   background-color: cornsilk;
   left: 60%;
-  right: 40%;
 }
 
 img {
