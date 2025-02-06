@@ -19,11 +19,11 @@ p {
 }
 
 div {
-	posistion: absolute;
-	font-family: copperplate;
-	Background-color: lightgreen;
-	left: 60%;
- 	right:40%;
+  posistion: absolute;
+  font-family: copperplate;
+  background-color: lightgreen;
+  left: 60%;
+  right:40%;
 }
 
 img {
