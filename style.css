@@ -18,6 +18,13 @@ p {
   text-align: center;
 }
 
+div {
+Posistion: absolute;
+	Background-color: #e6e6ff;
+	Left: 60%
+  Right:40%
+}
+
 img {
   display: block;
   margin-left: auto;
