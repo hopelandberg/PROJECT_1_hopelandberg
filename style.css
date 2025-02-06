@@ -15,9 +15,7 @@ h2 {
 p {
   font-family: cardo;
   font-size: 20px;
-  position: absolute;
-  left: 40%;
-  right: 60%;
+  text-align: center;
 }
 
 div {
