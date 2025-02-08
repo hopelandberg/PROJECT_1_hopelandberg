@@ -15,10 +15,13 @@ h2 {
 p {
   font-family: cardo;
   font-size: 20px;
-  text-align: center;
+  position: relative;
+  text-align: left;
+  left: 30%;
 }
 
 div {
+  position: relative;
   font-family: copperplate;
   font-size: 20px;
   background-color: lavender;
