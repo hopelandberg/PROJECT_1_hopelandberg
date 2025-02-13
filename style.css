@@ -1,5 +1,6 @@
 body {
-  background-color: MistyRose;
+  background-image: url("flarfimg/bg.png");
+  background-repeat: repeat-y;
 }
 
 h1 {
