@@ -10,13 +10,12 @@ h1 {
   font-style: normal;
   text-align: center;
   background-color: lavender;
-  text-color: white;
+  color: Black;
 }
 
 h2 {
-  color: black;
+  color: AliceBlue;
   text-align: center;
-  background-color: lavender;
 }
 
 p {
@@ -25,7 +24,8 @@ p {
   position: relative;
   text-align: left;
   left: 30%;
-  text-color: MistyRose;
+  color: Black;
+  background-color: AliceBlue;
 }
 
 div {
