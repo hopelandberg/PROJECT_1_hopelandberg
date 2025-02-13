@@ -5,6 +5,7 @@ body {
 h1 {
   color: black;
   text-align: center;
+  font-family: papyrus;
 }
 
 h2 {
@@ -24,6 +25,7 @@ div {
   position: relative;
   font-family: copperplate;
   font-size: 20px;
+  color: indigo; 
   background-color: lavender;
   opacity: .4;
   left: 40%;
