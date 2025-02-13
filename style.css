@@ -9,11 +9,14 @@ h1 {
   font-weight: <500>;
   font-style: normal;
   text-align: center;
+  background-color: lavender;
+  text-color: white;
 }
 
 h2 {
   color: black;
   text-align: center;
+  background-color: lavender;
 }
 
 p {
@@ -22,6 +25,7 @@ p {
   position: relative;
   text-align: left;
   left: 30%;
+  text-color: MistyRose;
 }
 
 div {
@@ -31,7 +35,7 @@ div {
   color: indigo; 
   background-color: lavender;
   opacity: .4;
-  left: 40%;
+  left: 50%;
 }
 
 img {
@@ -39,5 +43,5 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-  opacity: .5;
+  opacity: .75;
 }
