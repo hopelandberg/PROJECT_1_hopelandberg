@@ -4,8 +4,10 @@ body {
 
 h1 {
   color: black;
-  text-align: center;
-  font-family: papyrus;
+  font-family: "Edu AU VIC WA NT Arrows", serif;
+  font-optical-sizing: auto;
+  font-weight: <500>;
+  font-style: normal;
 }
 
 h2 {
